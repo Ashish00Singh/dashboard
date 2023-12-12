@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  background-color: rgb(250,251,253);
+  
+}
+body{
+  background-color: rgb(250,251,253);
+}
+.sidebar{
+  background-color: white;
+  height: 97.5vh;
+}
+.BEALICON{
+  background-color: white;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+.cjj{
+  background-color: white;
+  width: fit-content;
+  padding: 15px;
+  border-radius: 15px;
+}

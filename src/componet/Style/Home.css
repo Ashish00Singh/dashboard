@@ -1,0 +1,24 @@
+
+
+.profilimg{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-top: 10px;
+}.iconde{
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+}
+.hotede{
+    background-color:white;
+    align-items: center;
+    border-radius: 15px;    
+    padding: 15px;
+}
+.rightside{
+    background-color: white;
+    border-radius: 15px;
+    height: 80vh;
+}
